@@ -16,33 +16,18 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
-        
-       
+
         private void button2_Click(object sender, EventArgs e)
         {
+            //переход на форму
+            //Авторизация
+            //закрытие формы
             
-            if (textBox2.Text == "admin" && textBox1.Text == "admin")
-            {
-
-                
-                Form2 f2 = new Form2();
-                f2.Show();
-                this.Hide();
-            }
-             
-            else {
-                MessageBox.Show("Не правильный логин или пароль ");
-                //переход на форму
-                //Авторизация
-                //закрытие формы
-            }
-   
-
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-       
+
         }
     }
 }
