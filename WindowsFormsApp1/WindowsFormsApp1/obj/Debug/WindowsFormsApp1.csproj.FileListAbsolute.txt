@@ -9,29 +9,13 @@ C:\Users\Аркадий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug
 C:\Users\Аркадий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Аркадий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\Аркадий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
-C:\Users\artem\Desktop\Library-master (2)\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
-C:\Users\artem\Desktop\Library-Kiselev96-patch-4\Library-master\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Library-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Library-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
