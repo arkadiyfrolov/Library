@@ -27,7 +27,8 @@ namespace WindowsFormsApp1
                 
                 Form2 f2 = new Form2();
                 f2.Show();
-                this.Hide();
+                 this.Hide();
+
             }
              
             else {
